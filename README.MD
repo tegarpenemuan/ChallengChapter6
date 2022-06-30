@@ -1,4 +1,4 @@
-## Challenge Chapter 5
+## Challenge Chapter 6
 ![IMAGE ALT TEXT HERE](demo/1.png)
 
 ![IMAGE ALT TEXT HERE](demo/2.png)
